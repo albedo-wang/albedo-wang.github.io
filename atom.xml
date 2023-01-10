@@ -6,7 +6,7 @@
   <link href="https://wangqiumimao.ink/atom.xml" rel="self"/>
   
   <link href="https://wangqiumimao.ink/"/>
-  <updated>2023-01-10T03:39:22.315Z</updated>
+  <updated>2023-01-10T07:05:14.831Z</updated>
   <id>https://wangqiumimao.ink/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Ch1 - Introduction</title>
+    <link href="https://wangqiumimao.ink/posts/63db6594.html"/>
+    <id>https://wangqiumimao.ink/posts/63db6594.html</id>
+    <published>2023-01-10T03:42:21.000Z</published>
+    <updated>2023-01-10T07:05:14.831Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="1-Philosophy-of-Data-Structure"><a href="#1-Philosophy-of-Data-Structure" class="headerlink" title="1 Philosophy of Data Structure"></a>1 Philosophy of Data Structure</h1><h2 id="1-1-Efficient-Programs"><a href="#1-1-Efficient-Programs" class="headerlink" title="1.1 Efficient Programs"></a>1.1 Efficient Programs</h2><blockquote><p>Program is the <font color="blue"> <strong>soul of a machine</strong> </font>.</p><p>To improve the efficiency of a program.</p><ul><li><strong>Shorter running time</strong></li><li><strong>Less memory</strong></li></ul></blockquote><h2 id="1-2-Data-Structure"><a href="#1-2-Data-Structure" class="headerlink" title="1.2 Data Structure"></a>1.2 Data Structure</h2><blockquote><p><font color="red"> <strong>Data Structure</strong> </font> is <font color="blue"> <strong>any data representation</strong> </font> and its associated <font color="blue"> <strong>operations</strong> </font>.</p><ul><li>Integer: Summation</li><li>String: Replace</li></ul></blockquote><h2 id="1-3-Philosophy"><a href="#1-3-Philosophy" class="headerlink" title="1.3 Philosophy"></a>1.3 Philosophy</h2><blockquote><p><strong>Data Structure Requires</strong></p><ul><li><font color="blue">Space</font> for each data item it stores</li><li><font color="blue">Time</font> to perform each basic operation</li><li><p><font color="blue">Programming effort</font></li></ul><font color="red">No data structure is better than another in all situations.</font></blockquote><h1 id="2-Abstract-Data-Types-and-Data-Structures"><a href="#2-Abstract-Data-Types-and-Data-Structures" class="headerlink" title="2 Abstract Data Types and Data Structures"></a>2 Abstract Data Types and Data Structures</h1><h2 id="2-1-Definition"><a href="#2-1-Definition" class="headerlink" title="2.1 Definition"></a>2.1 Definition</h2><blockquote><p><strong>Type</strong>: a collection of values.  </p><ul><li>Boolean type: collection of true or false value</li><li>Integer type: collection of 1,2,3… value</li><li>……</li></ul><p><strong>Data type</strong> : a type and a collection of operations that manipulate the type</p><ul><li>Integer data type: Integer type and + - x ÷ operations…</li></ul><p><strong>Data Item</strong>: a piece of information of a record drawn from a data type</p><ul><li>A data item is said to be a member of a data type</li><li>true or false: a piece of information from a Boolean type…</li></ul><p><strong>Atomic Data Type</strong>: contain no subparts</p><ul><li>Integer, Boolean…</li></ul><p><strong>Structure Data Type</strong>: contain several pieces</p><ul><li>Array, String…</li></ul></blockquote><h1 id="3-Problems-Algorithms-and-Programs"><a href="#3-Problems-Algorithms-and-Programs" class="headerlink" title="3 Problems, Algorithms and Programs"></a>3 Problems, Algorithms and Programs</h1>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;1-Philosophy-of-Data-Structure&quot;&gt;&lt;a href=&quot;#1-Philosophy-of-Data-Structure&quot; class=&quot;headerlink&quot; title=&quot;1 Philosophy of Data Structure&quot;&gt;</summary>
+      
+    
+    
+    
+    <category term="Data Structure" scheme="https://wangqiumimao.ink/categories/Data-Structure/"/>
+    
+    
+    <category term="Data Structure" scheme="https://wangqiumimao.ink/tags/Data-Structure/"/>
+    
+  </entry>
   
   <entry>
     <title>标签外挂</title>
